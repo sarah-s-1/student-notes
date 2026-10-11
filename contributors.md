@@ -1,11 +1,9 @@
 # Contributors
-
 Thank you to everyone who has helped make **student-notes** better for students everywhere! 💙
 
 ![GitHub contributors](https://img.shields.io/github/contributors/YOUR-USERNAME/student-notes)
 
 ## 👥 Meet the Team
-
 | Name            | Role                 | Description                                              |
 |-----------------|----------------------|----------------------------------------------------------|
 | Daniel Mizrahi  | Project Lead         | Set up the project structure and coordinates the team    |
@@ -14,7 +12,6 @@ Thank you to everyone who has helped make **student-notes** better for students 
 | Sarah Silverne       | Documentation        | Writes and maintains the project's guides and docs pages  |
 
 ## 🚀 How to Contribute
-
 1. **Fork** this repository to your own GitHub account.
 2. **Create a branch** for your work:
    `git checkout -b feature/your-feature-name`
